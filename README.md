@@ -1,19 +1,20 @@
-<h1 align="center">Hello Mundo! I'm Rico e seja Welcome!</h1>
+<h1 align="center">Hello World! I'm Rico ;)</h1>
+<p align="center">I will change you!</p>
 
 <div align="center">
 <img alt="Rico Tiger Pixel" height="150" src="https://media0.giphy.com/media/IKOAHNRFDHK3QSsokJ/200w.webp?cid=ecf05e47mihvx191ym6p4pffumjk8zmk1riz5z8ws6iv4h63&rid=200w.webp&ct=s">
 </div>
 
-<h3> 🌐Sobre</h1>
+<h3> 🌐Sobre mim</h1>
 <div>
 
-- 22y Rio de Janeiro - RJ - Carioca da gema!
+- 22y Rio de Janeiro - RJ
   
 - Formado em desenvolvimento web full-stack na Resilia Educação e apaixonado por UI/UX designer.
   
 - Em constante aprendizado na área da tecnologia, gosto muito de estar sempre criando algo novo, seja uma "tentativa" de site, design ou até mesmo uma idéia escrita no bloco de notas, minha mente vai na lua e volta para terra com alguma doideira nova, me chama para um projeto e vamos mudar o mundo com ideias novas que possam transformar pessoas e gerar oportunidades.
 
-- Desde pequeno sempre tive muita curiosidade e criatividade para fazer design, agora meu sonho de ter a oportunidade e o conhecimento para ser um desenvolvedor está se tornando realidade, estou começando a divulgar meus projetos aqui no github e espero que vocês gostem. 
+- Desde pequeno sempre tive muita curiosidade e criatividade para fazer design, agora meu sonho de ter a oportunidade de ser um desenvolvedor está se tornando realidade. Estou começando a divulgar meus projetos aqui no github e espero que vocês gostem. 
 
 - Jogos, filmes, discord, caminhada no sol, ouvir música eletrônica, uma hora fast food, outra hora comidas saudáveis, estudar psicologias, filosofias, linguagens e tecnologias fazem parte do meu dia a dia.
   
