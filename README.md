@@ -8,7 +8,7 @@
 <h3> 🌐Sobre mim</h1>
 <div>
 
-- 22y Rio de Janeiro - RJ
+- 23y Rio de Janeiro - RJ
   
 - Formado em desenvolvimento web full-stack na Resilia Educação e apaixonado por UI/UX designer.
   
