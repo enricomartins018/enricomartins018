@@ -1,3 +1,5 @@
+<h1 align="center"> Hi guys, check my repositories to see my projects, hope you like it! ;)</h1>
+
 <div align="center">
   <a href="https://github.com/enricomartins018">
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=enricomartins018&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
